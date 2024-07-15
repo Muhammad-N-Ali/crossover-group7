@@ -4,7 +4,7 @@ const Section1 = () => {
       <div className="bg-white w-full p-4">
         <nav className="text-xl p-8">
           <ul className="grid grid-cols-10">
-            <li className="col-span-6">Callum Hayes</li>
+            <li className="col-span-6 px-3">Callum Hayes</li>
             <li className="border-0 text-center p-1">Projects</li>
             <li className="border-0 text-center p-1">Resume</li>
             <li className="border-0 text-center p-1">About me</li>
