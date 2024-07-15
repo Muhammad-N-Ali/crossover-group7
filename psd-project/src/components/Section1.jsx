@@ -28,7 +28,7 @@ const Section1 = () => {
             <img src="../images/Buttons.svg" alt="buttons" width="160px" />
           </div>
 
-          <div className="flex flex-wrap justify-between gap-6">
+          <div className="flex justify-between gap-6">
             <img src="../images/image 89.svg" alt="image89" />
             <img src="../images/image 90.svg" alt="iamges90" />
             <img src="../images/image 91.svg" alt="image 91" />
