@@ -2,7 +2,7 @@ const Section1 = () => {
   return (
     <>
       <div className="bg-white w-full p-4">
-        <nav className="text-xl p-8">
+        <nav className="text-xl p-8 border-b-2">
           <ul className="grid grid-cols-10">
             <li className="col-span-6 px-3">Callum Hayes</li>
             <li className="border-0 text-center p-1">Projects</li>
